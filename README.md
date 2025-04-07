@@ -3,8 +3,7 @@ Befor  running the code extract the zip filed codes then run them in vs code
 # Personal Protfolio Website
 This is a "Personal Portfolio Website" built using HTML, CSS, and JavaScript. It is designed to showcase my skills, projects, and resume in an interactive and responsive format.
 # Feature
-
-#Image Slider Project
+#Image Slider
 A simple, responsive, and interactive image slider built using HTML, CSS, and JavaScript to display a slideshow of images with both automatic and manual navigation.
 ## 🚀 Objective
 
